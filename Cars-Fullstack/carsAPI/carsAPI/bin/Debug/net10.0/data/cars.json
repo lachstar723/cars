@@ -1,0 +1,164 @@
+{
+  "cars": [
+    {
+      "licencePlate": "1ABC234",
+      "vin": "1HGCM82633A004352",
+      "colour": "Red",
+      "make": "Toyota",
+      "registrationValidFrom": "2025-01-15T00:00:00",
+      "registrationValidTo": "2026-01-14T23:59:59"
+    },
+    {
+      "licencePlate": "2XYZ789",
+      "vin": "JHMFA16586S012345",
+      "colour": "Blue",
+      "make": "Honda",
+      "registrationValidFrom": "2024-11-01T00:00:00",
+      "registrationValidTo": "2025-10-31T23:59:59"
+    },
+    {
+      "licencePlate": "WAB123",
+      "vin": "WAUZZZ8K9AA123456",
+      "colour": "Black",
+      "make": "Audi",
+      "registrationValidFrom": "2025-03-10T00:00:00",
+      "registrationValidTo": "2026-03-09T23:59:59"
+    },
+    {
+      "licencePlate": "PER456",
+      "vin": "JN1CV6AP9BM123987",
+      "colour": "White",
+      "make": "Nissan",
+      "registrationValidFrom": "2025-09-20T00:00:00",
+      "registrationValidTo": "2026-09-19T23:59:59"
+    },
+    {
+      "licencePlate": "9QWE321",
+      "vin": "3FAHP0HA8AR345678",
+      "colour": "Silver",
+      "make": "Ford",
+      "registrationValidFrom": "2024-06-01T00:00:00",
+      "registrationValidTo": "2025-05-31T23:59:59"
+    },
+    {
+      "licencePlate": "7LMN654",
+      "vin": "5NPE24AF4FH123111",
+      "colour": "Grey",
+      "make": "Hyundai",
+      "registrationValidFrom": "2024-02-05T00:00:00",
+      "registrationValidTo": "2025-02-04T23:59:59"
+    },
+    {
+      "licencePlate": "8RST987",
+      "vin": "KMHDH4AE1DU987654",
+      "colour": "Blue",
+      "make": "Hyundai",
+      "registrationValidFrom": "2024-12-01T00:00:00",
+      "registrationValidTo": "2025-11-30T23:59:59"
+    },
+    {
+      "licencePlate": "CAR777",
+      "vin": "SALWR2EF9FA234567",
+      "colour": "Green",
+      "make": "Land Rover",
+      "registrationValidFrom": "2025-04-18T00:00:00",
+      "registrationValidTo": "2026-04-17T23:59:59"
+    },
+    {
+      "licencePlate": "MOT888",
+      "vin": "WBA3A5C58DF345123",
+      "colour": "Black",
+      "make": "BMW",
+      "registrationValidFrom": "2025-08-25T00:00:00",
+      "registrationValidTo": "2026-08-24T23:59:59"
+    },
+    {
+      "licencePlate": "SPD999",
+      "vin": "WP0AA2A91ES123999",
+      "colour": "Yellow",
+      "make": "Porsche",
+      "registrationValidFrom": "2025-05-01T00:00:00",
+      "registrationValidTo": "2026-04-30T23:59:59"
+    },
+    {
+      "licencePlate": "UTE001",
+      "vin": "MMU148GK0FH111222",
+      "colour": "White",
+      "make": "Isuzu",
+      "registrationValidFrom": "2025-01-01T00:00:00",
+      "registrationValidTo": "2025-12-31T23:59:59"
+    },
+    {
+      "licencePlate": "VAN222",
+      "vin": "VF1FL000565432198",
+      "colour": "Silver",
+      "make": "Renault",
+      "registrationValidFrom": "2024-10-10T00:00:00",
+      "registrationValidTo": "2025-10-09T23:59:59"
+    },
+    {
+      "licencePlate": "TRK333",
+      "vin": "1FTFW1EF1EKF33333",
+      "colour": "Blue",
+      "make": "Ford",
+      "registrationValidFrom": "2025-07-01T00:00:00",
+      "registrationValidTo": "2026-06-30T23:59:59"
+    },
+    {
+      "licencePlate": "ECO444",
+      "vin": "JTDKN3DU0A0123444",
+      "colour": "Green",
+      "make": "Toyota",
+      "registrationValidFrom": "2024-06-15T00:00:00",
+      "registrationValidTo": "2025-06-14T23:59:59"
+    },
+    {
+      "licencePlate": "LUX555",
+      "vin": "JN8AZ2NE0G9123555",
+      "colour": "Black",
+      "make": "Infiniti",
+      "registrationValidFrom": "2024-03-01T00:00:00",
+      "registrationValidTo": "2025-02-28T23:59:59"
+    },
+    {
+      "licencePlate": "FAM666",
+      "vin": "2HKRM4H75GH456666",
+      "colour": "Maroon",
+      "make": "Honda",
+      "registrationValidFrom": "2025-09-05T00:00:00",
+      "registrationValidTo": "2026-09-04T23:59:59"
+    },
+    {
+      "licencePlate": "RNG777",
+      "vin": "WA1C4AFY2J2007777",
+      "colour": "Grey",
+      "make": "Audi",
+      "registrationValidFrom": "2024-08-01T00:00:00",
+      "registrationValidTo": "2025-07-31T23:59:59"
+    },
+    {
+      "licencePlate": "CMP888",
+      "vin": "1G1ZE5ST6HF888888",
+      "colour": "Red",
+      "make": "Chevrolet",
+      "registrationValidFrom": "2025-04-01T00:00:00",
+      "registrationValidTo": "2026-03-31T23:59:59"
+    },
+    {
+      "licencePlate": "SUV999",
+      "vin": "YV4952CZ9D1999999",
+      "colour": "White",
+      "make": "Volvo",
+      "registrationValidFrom": "2024-02-20T00:00:00",
+      "registrationValidTo": "2025-02-19T23:59:59"
+    },
+    {
+      "licencePlate": "EV101",
+      "vin": "5YJSA1E26HF000101",
+      "colour": "Blue",
+      "make": "Tesla",
+      "registrationValidFrom": "2024-09-01T00:00:00",
+      "registrationValidTo": "2025-08-31T23:59:59"
+    }
+  ]
+}
